@@ -1,7 +1,8 @@
 <p align="center">
   <a href="https://aethercode.co" target="_blank">
-    <img src="https://raw.githubusercontent.com/aethercode-company/.github/main/profile/banner.svg" alt="AetherCode S.A — Construimos, modernizamos y damos soporte a software empresarial" width="100%">
+    <img src="https://raw.githubusercontent.com/aethercode-company/.github/main/profile/banner.svg?v=2" alt="AetherCode S.A — Construimos, modernizamos y damos soporte a software empresarial" width="100%">
   </a>
+
 </p>
 
 <p align="center">
