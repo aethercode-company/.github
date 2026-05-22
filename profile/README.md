@@ -45,37 +45,6 @@ Observabilidad, SLAs claros y mejoras evolutivas. El día +1 después de producc
 
 <br />
 
-## Capacidades técnicas
-
-<table>
-<tr>
-<td width="180"><strong>Frontend</strong></td>
-<td>Next.js · React · TypeScript · Tailwind · Angular · Vue</td>
-</tr>
-<tr>
-<td><strong>Backend</strong></td>
-<td>Node · Java 21 · .NET · Go · Python · GraphQL</td>
-</tr>
-<tr>
-<td><strong>Cloud · DevOps</strong></td>
-<td>AWS · GCP · Azure · Kubernetes · Terraform · GitHub Actions</td>
-</tr>
-<tr>
-<td><strong>Data</strong></td>
-<td>Postgres · Kafka · Redis · BigQuery · ClickHouse · InfluxDB</td>
-</tr>
-<tr>
-<td><strong>Móvil</strong></td>
-<td>React Native · Swift · Kotlin · Expo</td>
-</tr>
-<tr>
-<td><strong>Integraciones</strong></td>
-<td>REST · GraphQL · SOAP · FHIR · HL7 · Webhooks</td>
-</tr>
-</table>
-
-<br />
-
 ## Cómo trabajamos
 
 ```
@@ -100,51 +69,6 @@ Observabilidad, SLAs claros y mejoras evolutivas. El día +1 después de producc
 07 ─ Monitoreo & soporte      Observabilidad continua, SLAs claros y un equipo
                               dedicado a evolución y nuevas funcionalidades.
 ```
-
-<br />
-
-## Proyectos destacados
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-#### Banco Andino · Core transaccional
-Migración del core legado a microservicios sobre Kubernetes y portal con tokenización biométrica para 2.1M de clientes.
-
-<sub><code>Java 21</code> · <code>Kubernetes</code> · <code>AWS</code> · <code>Kafka</code></sub>
-
-</td>
-<td valign="top" width="50%">
-
-#### MediTrack · Historia clínica electrónica
-HCE con prescripción digital, módulo FHIR e integración con laboratorios. Despliegue piloto en cuatro hospitales.
-
-<sub><code>React</code> · <code>.NET</code> · <code>FHIR</code></sub>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-#### LogiFlow · Optimización de rutas
-Motor de ruteo predictivo y rastreo en tiempo real para una flota de 480 vehículos en seis ciudades.
-
-<sub><code>Python</code> · <code>GCP</code> · <code>Analytics</code></sub>
-
-</td>
-<td valign="top" width="50%">
-
-#### Retail OS · POS omnicanal
-POS, inventario y CRM unificados para una cadena con 240 tiendas en LATAM. Sincronización offline-first.
-
-<sub><code>Next.js</code> · <code>Postgres</code></sub>
-
-</td>
-</tr>
-</table>
-
-<p>→ <a href="https://aethercode.co/#proyectos"><strong>Ver portafolio completo</strong></a></p>
 
 <br />
 
