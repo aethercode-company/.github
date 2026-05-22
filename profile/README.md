@@ -177,7 +177,7 @@ POS, inventario y CRM unificados para una cadena con 240 tiendas en LATAM. Sincr
 ---
 
 <p align="center">
-  <sub><strong>AetherCode S.A</strong> · Bogotá, Colombia · Distribuido en LATAM</sub>
+  <sub><strong>AetherCode S.A</strong> · Medellin, Colombia · Distribuido en LATAM</sub>
   <br />
   <sub>Una factura. Un contrato. Un punto de contacto.</sub>
 </p>
